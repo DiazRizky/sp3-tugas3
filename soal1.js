@@ -30,3 +30,4 @@ console.log(myRabbit.eat());
 
 let myEagle = new Eagle ('Elo', 4)
 console.log(myEagle.fly());
+G
